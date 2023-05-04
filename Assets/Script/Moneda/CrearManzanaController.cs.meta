@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6b19b73c6cb91544b95241ad0baa4997
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - manzanaPrefab: {fileID: 7824642359053922953, guid: 2612dc9704ff2ea49baa0d67418515da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
